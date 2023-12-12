@@ -2,7 +2,11 @@
 Code files for 11785 Introduction to deep learning project
 
 
-The file for downloading
+The file for downloading the dataset is given here:
+[Dataset Downloading and preparation](https://github.com/RDjarbeng/idl-project/blob/main/downloading-dataset.ipynb)
+
+Take note to use the faceforensics++ dataset requires permissions from the authors of the paper.
+
 # FaceSwap Dataset Downloading and preparation
 
 This code is used to prepare a dataset for FaceSwap, including downloading and organizing videos and images.
