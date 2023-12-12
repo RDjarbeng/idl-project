@@ -1,11 +1,13 @@
 # idl-project
 Code files for 11785 Introduction to deep learning project
 
-
+## Download notebook
 The file for downloading the dataset is given here:
 [Dataset Downloading and preparation](https://github.com/RDjarbeng/idl-project/blob/main/downloading-dataset.ipynb)
+Some of the commands here might be specific to a kaggle notebook. 
 
-Take note to use the faceforensics++ dataset requires permissions from the authors of the paper.
+
+> Take note to use the faceforensics++ dataset requires permissions from the authors of the paper.
 
 # FaceSwap Dataset Downloading and preparation
 
@@ -27,3 +29,10 @@ Modify the server location if necessary.
 ## External Files
 The code relies on the "Faceforencic_download_script.py" script for downloading videos.
 The "extract_images.py" script is used to extract and crop images from the dataset.
+
+
+## Download notebook
+This notebook contains the model for training 
+[Dataset Downloading and preparation](https://github.com/RDjarbeng/idl-project/blob/main/project-notebook-codes.ipynb)
+
+The provided code is a deep learning pipeline for training a model using the SeResNet architecture on a dataset of face images. The pipeline includes data loading, model creation, training, validation, and testing. 
