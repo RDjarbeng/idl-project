@@ -1,6 +1,8 @@
 # idl-project
 Code files for 11785 Introduction to deep learning project
 
+![image](https://github.com/RDjarbeng/idl-project/assets/57795443/0e70df52-02a7-42b1-873b-d3c7c16ba5aa)
+
 ![masks](https://github.com/RDjarbeng/idl-project/assets/57795443/4ec620da-cfd2-41df-bd3c-8ebc6c1940af)
 
 
@@ -32,6 +34,8 @@ Modify the server location if necessary.
 ## External Files
 The code relies on the "Faceforencic_download_script.py" script for downloading videos.
 The "extract_images.py" script is used to extract and crop images from the dataset.
+
+![cropped_face](https://github.com/RDjarbeng/idl-project/assets/57795443/47d2d396-5b1e-44fe-b17a-7c926f33e12f)
 
 
 ## Download notebook
