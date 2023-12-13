@@ -9,7 +9,7 @@ Code files for 11785 Introduction to deep learning project
 ## Download notebook
 The file for downloading the dataset is given here:
 [Dataset Downloading and preparation](https://github.com/RDjarbeng/idl-project/blob/main/downloading-dataset.ipynb)
-Some of the commands here might be specific to a kaggle notebook. 
+Some of the commands here might be specific to a kaggle notebook. The notebooks in this repository have instructions and procedure to follow in the first markdown cell.
 
 
 > Take note to use the faceforensics++ dataset requires permissions from the authors of the paper.
