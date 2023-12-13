@@ -1,6 +1,9 @@
 # idl-project
 Code files for 11785 Introduction to deep learning project
 
+![masks](https://github.com/RDjarbeng/idl-project/assets/57795443/4ec620da-cfd2-41df-bd3c-8ebc6c1940af)
+
+
 ## Download notebook
 The file for downloading the dataset is given here:
 [Dataset Downloading and preparation](https://github.com/RDjarbeng/idl-project/blob/main/downloading-dataset.ipynb)
@@ -32,7 +35,7 @@ The "extract_images.py" script is used to extract and crop images from the datas
 
 
 ## Download notebook
-This notebook contains the model for training 
+This notebook contains the code for building the model and for training to achieve the results stated
 [Dataset Downloading and preparation](https://github.com/RDjarbeng/idl-project/blob/main/project-notebook-codes.ipynb)
 
 The provided code is a deep learning pipeline for training a model using the SeResNet architecture on a dataset of face images. The pipeline includes data loading, model creation, training, validation, and testing. 
